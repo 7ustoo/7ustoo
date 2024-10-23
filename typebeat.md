@@ -298,22 +298,22 @@ rdci fieldgroup -l
 ```bash
 rdci fieldgroup -d 1
 ```
-
-### 🛑 Monitor Errors
-
-Define fields to monitor RAS ECC counters.
-
-- **Correctable ECC Errors:**
-
-    ```bash
-    312 RDC_FI_ECC_CORRECT_TOTAL
-    ```
-
-- **Uncorrectable ECC Errors:**
-
-    ```bash
-    313 RDC_FI_ECC_UNCORRECT_TOTAL
-    ```
+> [!IMPORTANT]
+>### 🛑 Monitor Errors
+>
+>Define fields to monitor RAS ECC counters.
+>
+>- **Correctable ECC Errors:**
+>
+>    ```bash
+>    312 RDC_FI_ECC_CORRECT_TOTAL
+>    ```
+>
+>- **Uncorrectable ECC Errors:**
+>
+>    ```bash
+>    313 RDC_FI_ECC_UNCORRECT_TOTAL
+>   ```
 
 ### 📈 Device Monitoring
 
